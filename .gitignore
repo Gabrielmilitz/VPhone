@@ -1,1 +1,12 @@
 anotacoes.txt 
+# Arquivos de ambiente virtual
+venv/
+.env/
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+
+
+logica.py
+model_terminal.py
